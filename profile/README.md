@@ -77,4 +77,7 @@
 
 ## Hugging Face
 
+- [**신한은행 상담 LLM**](https://huggingface.co/juhoon01/ko_llama3_model_shinhan_4)
+- [**네이버 지식IN 상담 LLM**](https://huggingface.co/datasets/doosup01/kpro_last-dataset)
+
 ---
